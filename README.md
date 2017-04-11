@@ -9,8 +9,7 @@ Please don't forget to add a newline after your entry.
 
 # List
 
-HOUSEFINDER - A SaaS that will help you easily look for an apartment/house rental contract via a web crawler that collects the latest info from several websites with rental contracts. Created by Adam Jacobs [ @worldyn ] and Olle Berglöf [ edit comes soon ].
-https://github.com/worldyn/house-web-crawler
+- [HOUSEFINDER](https://github.com/worldyn/house-web-crawler) - A SaaS that will help you easily look for an apartment/house rental contract via a web crawler that collects the latest info from several websites with rental contracts. Created by Adam Jacobs ([@worldyn](https://github.com/worldyn)) and Olle Berglöf ([@osobo](https://github.com/osobo)).
 
 
 
