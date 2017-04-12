@@ -9,5 +9,7 @@ Please don't forget to add a newline after your entry.
 
 # List
 
+- [HOUSEFINDER](https://github.com/worldyn/house-web-crawler) - A SaaS that will help you easily look for an apartment/house rental contract via a web crawler that collects the latest info from several websites with rental contracts. Created by Adam Jacobs ([@worldyn](https://github.com/worldyn)) and Olle Berglöf ([@osobo](https://github.com/osobo)).
+
 - [2D puzzle platformer](https://github.com/AxlLind/2D-platformer) - A 2D puzzle platformer. We will be using Unity and therefore writing it in C#. ([@Axel](github.com/axlLind), [@Jonatan](https://github.com/Jontpan))
 
