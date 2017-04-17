@@ -9,4 +9,4 @@ Please don't forget to add a newline after your entry.
 
 # List
 
-[Music Map](https://github.com/beichenc/MusicMap) - A website where users log in with Spotify, and can map their currently playing song on a map. Users can view previously mapped songs by other users at their current location or any other location, to get location based music inspiration. Implemented using React. ([@member](https://github.com/beichenc), [@member](https://github.com/amyychen))  
+[Music Map](https://github.com/beichenc/MusicMap) - A website where users log in with Spotify, and can map their currently playing song on a map. Users can view previously mapped songs by other users at their current location or any other location, to get location based music inspiration. Implemented using React. ([@beichenc](https://github.com/beichenc), [@amyychen](https://github.com/amyychen))  
