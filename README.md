@@ -15,4 +15,4 @@ Please don't forget to add a newline after your entry.
 
 - [2D puzzle platformer](https://github.com/AxlLind/2D-platformer) - A 2D puzzle platformer. We will be using Unity and therefore writing it in C#. ([@Axel](github.com/axlLind), [@Jonatan](https://github.com/Jontpan))
 
-
+- [Lifelink](https://github.com/johnnil/Lifelink/) - An MTG life counter using LAN connectivity to improve UI. Developed for Andriod in Java. ([@John](github.com/johnnil), [@Angus](github.com/angloth)).
