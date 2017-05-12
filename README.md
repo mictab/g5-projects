@@ -1,5 +1,9 @@
 # g5-projects
-A list of group 5's projinda projects. Send a PR adding a short description of your project to the list 🚀
+A list of group 5's projinda projects.
+
+For the course DD1349 _Project in Introduction to Computer Science_ at KTH Royal Institute of Technology.
+
+Send a PR adding a short description of your project to the list 🚀
 
 ## How to
 Add your entry in this format to the list below:
