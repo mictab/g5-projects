@@ -20,3 +20,5 @@ Please don't forget to add a newline after your entry.
 - [Lifelink](https://github.com/johnnil/Lifelink/) - An MTG life counter using LAN connectivity to improve UI. Developed for Andriod in Java. ([@John](https://github.com/johnnil), [@Angus](https://github.com/angloth)).
 
 - [PhotoFullStack](https://github.com/gustaver/fullstack-photo-applcation) - Application we are building using Go backend and Swift/Android front end. MongoDB for database. ([@Gustave](https://github.com/gustaver), [@Oskar](https://github.com/oskaerik)).
+
+- [SystemWallSolna](https://github.com/emilabr/Board) - A system wall application, used by climbers to mark their route on the system wall located at Klättercentret Solna. Developed for Android in Java. ([@Emil](https://github.com/emilabr), [@David](https://github.com/davyie), [@Richard](https://github.com/ricliu89))
